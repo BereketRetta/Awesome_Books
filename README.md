@@ -27,7 +27,7 @@ To get a local copy up and running follow these simple example steps.
 
 git clone repo: `git clone https://github.com/BereketRetta/Awesome_Books.git`
 
-then `cd Capstone-project`
+then `cd Awesome_Books`
 
 ### Install
 
@@ -43,11 +43,11 @@ run `npm install` to install dependencies
 - Twitter: [@bereketRetta](https://twitter.com/bekiopia)
 - LinkedIn: [bereketRetta](https://linkedin.com/in/bereket-retta)
 
-<!-- 👤 **Author2**
+👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle) -->
+- GitHub: [@olawalecoder](https://github.com/olawalecoder)
+- Twitter: [@Olawale](https://twitter.com/Olawale)
+- LinkedIn: [Olawale](https://linkedin.com/in/Olawale)
 
 ## 🤝 Contributing
 
