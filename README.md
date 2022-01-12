@@ -39,7 +39,7 @@ run `npm install` to install dependencies
 
 👤 **Author1**
 
-- GitHub: [@bereketRetta](https://github.com/bereketRetta)
+- GitHub: [@bereketAdego](https://github.com/bereketRetta)
 - Twitter: [@bereketRetta](https://twitter.com/bekiopia)
 - LinkedIn: [bereketRetta](https://linkedin.com/in/bereket-retta)
 
