@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Awesome Books
 
-> One paragraph statement about the project.
+> Book Store using JavaScript
 
 ![screenshot](./app_screenshot.png)
 
@@ -10,34 +10,28 @@ Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML/CSS
+- JavaScript
+- Live Server
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://bereketretta.github.io/Awesome_Books/)
 
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-### Setup
+git clone repo: `git clone https://github.com/BereketRetta/Awesome_Books.git`
+
+then `cd Awesome_Books`
 
 ### Install
 
-### Usage
-
-### Run tests
-
-### Deployment
+run `npm install` to install dependencies
 
 
 
@@ -45,21 +39,27 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@bereketRetta](https://github.com/bereketRetta)
+- Twitter: [@bereketRetta](https://twitter.com/bekiopia)
+- LinkedIn: [bereketRetta](https://linkedin.com/in/bereket-retta)
 
 👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@olawalecoder](https://github.com/olawalecoder)
+- Twitter: [@olawalecoder](https://twitter.com/olawalecoder)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/bamidele-olawale-072975142)
+
+👤 **Author3**
+
+- Github: [@Yerimah](https://github.com/Yerimah)
+- Twitter: [@iamdeewyne](https://twitter.com/iamdeewyne)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/daniel-yerimah/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/BereketRetta/Awesome_Books/issues).
 
 ## Show your support
 
@@ -67,9 +67,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Microverse
 
 ## 📝 License
 
