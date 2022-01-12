@@ -8,10 +8,13 @@ container.innerHTML = `
     <button class="add">Add</button>
     </form>
 `;
-function NewBooks(title, author) {
+class NewBooks {
+  constructor(title, author) {
   this.title = title;
   this.author = author;
+ }
 }
+
 const bookContainer = container.querySelector('.books');
 const add = container.querySelector('.add');
 const title = container.querySelector('.title');
