@@ -10,9 +10,9 @@ container.innerHTML = `
 `;
 class NewBooks {
   constructor(title, author) {
-  this.title = title;
-  this.author = author;
- }
+    this.title = title;
+    this.author = author;
+  }
 }
 
 const bookContainer = container.querySelector('.books');
