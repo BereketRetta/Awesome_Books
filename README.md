@@ -49,6 +49,12 @@ run `npm install` to install dependencies
 - Twitter: [@Olawale](https://twitter.com/Olawale)
 - LinkedIn: [Olawale](https://linkedin.com/in/Olawale)
 
+👤 **Author3**
+
+- GitHub: [@yerimah](https://github.com/yerimah)
+- Twitter: [@iamdeewyne](https://twitter.com/iamdeewyne)
+- LinkedIn: [@daniel-yerimah](https://www.linkedin.com/in/daniel-yerimah/)
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
